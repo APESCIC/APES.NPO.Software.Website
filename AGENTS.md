@@ -2,7 +2,7 @@
 
 Cursor's user rules and skills set how work is done here (branches, issues, pull requests, merge, release, deploy, ship gate, decisions and safety). This file describes this repository and fills the named slots below. If anything here disagrees with them, Cursor's rules win and this file is corrected in the same milestone.
 
-Cursor/agent layout standard: https://github.com/apescic-director/Cursor/blob/bmurphy/cursor-agent-standard-81b0/docs/cursor-agent-standards.md
+Cursor/agent layout standard: https://github.com/apescic-director/Cursor/blob/main/docs/cursor-agent-standards.md
 
 The owner is Bambie Murphy, Director. Write UK English (organisation, behaviour, colour, licence) in the product, docs, issues and pull requests. Never print, paste or commit secrets.
 
@@ -111,4 +111,4 @@ An issue is done when its acceptance criteria are met and committed on the miles
 - GitHub issues and milestones: https://github.com/APESCIC/APES.NPO.Software.Website/issues
 - Sibling licence API: https://github.com/APESCIC/APES.Digital.Software
 - Sibling SaaS product: https://github.com/APESCIC/NPO.WorkDash
-- Cursor/agent standards: https://github.com/apescic-director/Cursor/blob/bmurphy/cursor-agent-standard-81b0/docs/cursor-agent-standards.md
+- Cursor/agent standards: https://github.com/apescic-director/Cursor/blob/main/docs/cursor-agent-standards.md
